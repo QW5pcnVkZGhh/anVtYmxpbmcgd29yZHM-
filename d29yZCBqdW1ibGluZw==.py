@@ -23,6 +23,7 @@ for dw__ in d29yZHNw:
     print("\tSnVtYmxlZCB3b3JkOg==", YQ__,"\n")
     anVtYmxpc3Q_.append(YQ__)
 
+random.shuffle(anVtYmxpc3Q_)
 anVtYnN0cg__ = " ".join(anVtYmxpc3Q_)
 print("\t",V29yZHM_)
 print("\t",anVtYnN0cg__)
