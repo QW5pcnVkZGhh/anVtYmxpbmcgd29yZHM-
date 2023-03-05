@@ -3,7 +3,7 @@ print("\tRW50ZXIgdGhlIHNlbnRlbmNlOiA=",end="")
 V29yZHM_ = input()
 d29yZHNw = V29yZHM_.split()
 
-def jumb(d29yZA__):
+def anVtYg__(d29yZA__):
     print("\n\tQ29ycmVjdCB3b3JkOiA="+d29yZA__)
     anVtYmxl = ""
     while d29yZA__:
@@ -19,7 +19,7 @@ def jumb(d29yZA__):
 anVtYmxpc3Q_=[]
 
 for dw__ in d29yZHNw:
-    YQ__=jumb(dw__)
+    YQ__=anVtYg__(dw__)
     print("\tSnVtYmxlZCB3b3JkOg==", YQ__,"\n")
     anVtYmxpc3Q_.append(YQ__)
 
